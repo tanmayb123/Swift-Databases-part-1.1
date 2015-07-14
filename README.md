@@ -6,4 +6,4 @@ To use:
 2.  Use the code "request = TBSDB(initWithURL: <YOUR LINK>)" to create the request  
 3.  Use the code "request.getData()" to get the NSData value  
 4.  Use the code "request.dictionaryValue()" to get the Dictionary value  
-5.  Use the code "request.arrayValue()" to get the Dictionary value  
+5.  Use the code "request.arrayValue()" to get the Array value  
