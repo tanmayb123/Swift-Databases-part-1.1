@@ -1,4 +1,4 @@
-This App will allow you to use Google's secret/hidden Dictionary API.  
+This "auxiliary code" (called by apple) helps with reading JSON from online.
   
 To use:  
   
